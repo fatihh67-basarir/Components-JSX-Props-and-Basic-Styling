@@ -24,6 +24,11 @@ footer {
   background-color: black;
   text-align: center;
   padding: 2rem;
-  
 
+
+}
+
+.content {
+  padding: 2rem;
+  height: calc(100vh - 299px);
 }
